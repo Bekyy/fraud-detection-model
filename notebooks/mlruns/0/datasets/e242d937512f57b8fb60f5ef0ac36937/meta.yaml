@@ -1,0 +1,8 @@
+digest: 535d6b2a
+name: dataset
+profile: '{"features_shape": [1, 13], "features_size": 13, "features_nbytes": 104}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Bereket", "mlflow.source.name": "c:\\Users\\Bereket\\Desktop\\Projects\\fraud-detection-model\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

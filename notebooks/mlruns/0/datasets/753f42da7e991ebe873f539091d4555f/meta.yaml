@@ -1,0 +1,16 @@
+digest: 9a9ee1cb
+name: dataset
+profile: '{"num_rows": 25830, "num_elements": 335790}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "purchase_value", "required":
+  true}, {"type": "integer", "name": "source", "required": true}, {"type": "integer",
+  "name": "browser", "required": true}, {"type": "integer", "name": "sex", "required":
+  true}, {"type": "long", "name": "age", "required": true}, {"type": "long", "name":
+  "ip_address", "required": true}, {"type": "double", "name": "lower_bound_ip_address",
+  "required": true}, {"type": "double", "name": "upper_bound_ip_address", "required":
+  true}, {"type": "integer", "name": "country", "required": true}, {"type": "double",
+  "name": "time_diff", "required": true}, {"type": "integer", "name": "hour_of_day",
+  "required": true}, {"type": "integer", "name": "day_of_week", "required": true},
+  {"type": "long", "name": "transaction_count", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Bereket", "mlflow.source.name": "c:\\Users\\Bereket\\Desktop\\Projects\\fraud-detection-model\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
