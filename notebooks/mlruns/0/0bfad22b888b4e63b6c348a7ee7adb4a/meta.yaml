@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Bereket/Desktop/Projects/fraud-detection-model/notebooks/mlruns/0/0bfad22b888b4e63b6c348a7ee7adb4a/artifacts
+end_time: 1729567717952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bfad22b888b4e63b6c348a7ee7adb4a
+run_name: LogisticRegression
+run_uuid: 0bfad22b888b4e63b6c348a7ee7adb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567632988
+status: 4
+tags: []
+user_id: Bereket

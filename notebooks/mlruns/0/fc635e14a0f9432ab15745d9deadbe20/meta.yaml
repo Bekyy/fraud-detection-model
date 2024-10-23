@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Bereket/Desktop/Projects/fraud-detection-model/notebooks/mlruns/0/fc635e14a0f9432ab15745d9deadbe20/artifacts
+end_time: 1729565484954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc635e14a0f9432ab15745d9deadbe20
+run_name: delicate-conch-851
+run_uuid: fc635e14a0f9432ab15745d9deadbe20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729565357304
+status: 3
+tags: []
+user_id: Bereket
