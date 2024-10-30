@@ -23,6 +23,15 @@ The project involves several key steps:
 - matplotlib: Data visualization. 
 - seaborn: Statistical visualizations.
 - scikit-learn
+## Models USed
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+* Multi-Layer Perceptron (MLP)
+* Convolutional Neural Network (CNN)
+* Recurrent Neural Network (RNN)
+* Long Short-Term Memory (LSTM)
 
 **Installation**
 
